@@ -1,6 +1,7 @@
 ---
 title : "Willkommen auf Lea's Blog"
-description: ""
+description: "This blog contains ongoing information about my current project in the subject Virtual and Augmented Reality."
+summary: "This blog contains ongoing information about my current project in the subject Virtual and Augmented Reality."
 lead: ""
 date: 2023-09-07T16:33:54+02:00
 lastmod: 2023-09-07T16:33:54+02:00
