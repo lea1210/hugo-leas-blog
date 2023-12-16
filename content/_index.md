@@ -1,5 +1,5 @@
 ---
-title : "Willkommen auf Lea's Blog"
+title : "Welcome to Lea's Blog"
 description: "This blog contains ongoing information about my current project in the subject Virtual and Augmented Reality."
 summary: "This blog contains ongoing information about my current project in the subject Virtual and Augmented Reality."
 lead: ""
@@ -12,3 +12,4 @@ seo:
  canonical: "" # custom canonical URL (optional)
  noindex: false # false (default) or true
 ---
+On this page I blog about my bow and arrow project in IARVR

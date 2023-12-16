@@ -12,8 +12,8 @@ contributors: []
 pinned: false
 homepage: false
 seo:
-  title: "Einführung" # custom title (optional)
-  description: "Heute habe ich Hugo installiert." # custom description (recommended)
+  title: "Introduction" # custom title (optional)
+  description: " " # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
